@@ -1,0 +1,23 @@
+Date,Client ID,Client Type,Transaction Type,Amount,Currency
+2020-12-31,1,private,withdraw,1000,EUR
+2021-01-01,1,private,withdraw,1500,EUR
+2021-01-02,1,private,withdraw,1500,USD
+2021-01-02,1,private,withdraw,1000,EUR
+2021-01-03,1,private,deposit,500,EUR
+2021-01-26,4,business,deposit,1500,EUR
+2021-01-27,4,business,withdraw,6550,JPY
+2021-01-31,4,business,withdraw,3200.5,EUR
+2021-01-07,3,private,deposit,6053.23,USD
+2021-01-08,3,private,deposit,7000,EUR
+2021-01-09,5,private,withdraw,3500,EUR
+2021-01-10,5,private,withdraw,2500,EUR
+2021-01-11,6,business,withdraw,3250,EUR
+2021-02-12,7,private,withdraw,1000,EUR
+2021-02-13,7,private,deposit,1000,EUR
+2021-02-26,7,private,withdraw,1000,EUR
+2021-02-28,7,private,withdraw,500,USD
+2021-02-28,7,private,withdraw,1000,EUR
+2021-02-16,8,private,deposit,3980,USD
+2021-03-08,8,private,withdraw,320000,JPY
+2021-03-09,8,private,deposit,45000,EUR
+2021-03-09,1,private,deposit,98800,EUR

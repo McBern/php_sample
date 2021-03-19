@@ -1,0 +1,21 @@
+{
+    "name": "pay-solution/payservice",
+    "type": "library",
+    "require": {
+        "ext-curl": "^7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit-selenium": "^9.0"
+    },
+    "authors": [
+        {
+            "name": "Bernard Peligro",
+            "email": "greatest_conqueror@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Payservice\\": "src/Service/"
+        }
+    }
+}
