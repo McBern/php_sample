@@ -12,7 +12,6 @@ use Payservice\Utils;
 use Payservice\ClientType;
 
 
-$a = new CurrencyRate();
 $rates = $a::getLatestCurrencyRate();
 $transactions = array();
 
