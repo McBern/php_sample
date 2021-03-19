@@ -7,11 +7,11 @@ require_once __DIR__.'/../vendor/autoload.php';
 
 use Payservice\CurrencyRate;
 use Payservice\Deposit;
-use Payservice\Withdraw;
+use Payservice\Withdraw;https://github.com/McBern/php_sample/blob/master/tests/testInput.php
 use Payservice\Utils;
 use Payservice\ClientType;
 
-
+$a = new CurrencyRate();
 $rates = $a::getLatestCurrencyRate();
 $transactions = array();
 
